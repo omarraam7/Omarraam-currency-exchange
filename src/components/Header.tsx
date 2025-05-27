@@ -22,7 +22,7 @@ const Header: React.FC<HeaderProps> = ({ scrolled }) => {
         <div className="flex justify-between items-center py-4">
           <Link to="/" className="flex items-center space-x-2">
             <DollarSign className="h-8 w-8 text-yellow-600" />
-            <span className="font-bold text-xl bg-gradient-to-r from-yellow-500 to-amber-700 bg-clip-text text-transparent">Omarraam Exchange</span>
+            <span className="font-bold text-xl bg-gradient-to-r from-yellow-500 to-amber-700 bg-clip-text text-transparent">Omarraam Currencies Exchange</span>
           </Link>
 
           {/* Desktop Navigation */}
