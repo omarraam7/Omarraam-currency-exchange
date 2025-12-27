@@ -10,12 +10,12 @@ const fixedRates = {
   },
   KSH: {
     USD: 0.00769, // 13000 KSH = 100 USD (1/130)
-    ETB: 1.15, // 1000 KSH = 1150 ETB (1.15)
+    ETB: 1.35, // 100 KSH = 135 ETB
     KSH: 1
   },
   ETB: {
     USD: 0.0177,
-    KSH: 0.80, // 100 ETB = 80 KSH (0.80)
+    KSH: 0.65, // 100 ETB = 65 KSH
     ETB: 1
   }
 };
