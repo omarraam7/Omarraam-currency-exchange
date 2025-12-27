@@ -5,7 +5,7 @@ import { Transaction } from '../types';
 const fixedRates = {
   USD: {
     KSH: 128.00, // 100 USD = 12800 KSH
-    ETB: 56.45,
+    ETB: 172.8, // 1 USD = 172.8 ETB
     USD: 1
   },
   KSH: {
@@ -14,7 +14,7 @@ const fixedRates = {
     KSH: 1
   },
   ETB: {
-    USD: 0.0177,
+    USD: 0.005, // 1 ETB = 0.005 USD
     KSH: 0.65, // 100 ETB = 65 KSH
     ETB: 1
   }
